@@ -1,0 +1,3 @@
+​🐛​ Si encontrás algún error en Arturito podés hacer un issue en Github o hablarnos por instagram
+Github: https://github.com/astrocinco/telegram_bot_python/issues
+Instagram: https://www.instagram.com/elgradientefiuba/

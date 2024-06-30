@@ -1,0 +1,16 @@
+👋 Hola fiubense, soy Arturito, el primer bot de la FIUBA. Ahora estoy en Telegram!
+🤖 Hacé click en el link que quieras ver:
+
+🏛️ Institucionales 🏛️
+▼ Departamentos y laboratorios /departamentos
+▼ Preguntas frecuentes /faq
+▼ Calendario /calendario
+▼ Aulas y baños en la facultad /aulas
+
+📚 Académico 📚
+▼ Deportes en FIUBA /deportes
+▼ Apuntes y herramientas /apuntes
+
+🚀 Miscelánea 🚀
+▼ Quienes son los creadores de este bot /arturito
+▼ Errores y sugerencias /bugs
