@@ -8,8 +8,8 @@
 ▼ Aulas y baños en la facultad /aulas
 
 📚 Académico 📚
-▼ Deportes en FIUBA /deportes
 ▼ Apuntes y herramientas /apuntes
+▼ Deportes en FIUBA /deportes
 
 🚀 Miscelánea 🚀
 ▼ Quienes son los creadores de este bot /arturito

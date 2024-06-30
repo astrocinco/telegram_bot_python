@@ -1,7 +1,7 @@
-**Aulas**
+▼ Aulas
 Las aulas de la facultad poseen una numeración de tres dígitos.
 El primer dígito se debe al piso en donde se encuentra la misma (si este dígito es una letra "S" significa subsuelo, si es una letra "E" significa entrepiso del subsuelo).
 Los últimos dos números son el número de aula en ese piso. De ser un número par se encontrará en el ala derecha de la facultad (calle Estados Unidos) de lo contrario en caso impar estará en el lado izquierdo (Av. Independencia).
 
-**Baños**
+▼ Baños
 Hay dos baños por cada piso. Los baños de mujeres están en el ala de Av. Independencia, y los de varones en el ala de Estados Unidos.
